@@ -1,0 +1,10 @@
+*.sln
+*.vsidx
+*.db
+*.ipch
+*.vcxproj
+*.filters
+*.recipe
+*.idb
+*.lastbuildstate
+*.tlog
