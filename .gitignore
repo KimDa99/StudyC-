@@ -1,0 +1,12 @@
+*.sln
+*.vsidx
+*.db
+*.ipch
+*.vcxproj
+*.filters
+*.recipe
+*.idb
+*.lastbuildstate
+*.tlog
+CppPrimerPlus/CppPrimerPlus/
+CppPrimerPlus/.vs/
