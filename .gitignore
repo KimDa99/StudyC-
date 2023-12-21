@@ -8,3 +8,5 @@
 *.idb
 *.lastbuildstate
 *.tlog
+CppPrimerPlus/CppPrimerPlus/
+CppPrimerPlus/.vs/
